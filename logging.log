@@ -1,0 +1,347 @@
+2015-09-11 23:50:53 INFO  LogLog4j:45 - Opening login page
+2015-09-11 23:50:59 INFO  LogLog4j:33 - Checking that all correct data added successfully
+2015-09-11 23:57:53 INFO  LogLog4j:45 - Opening login page
+2015-09-11 23:57:58 INFO  LogLog4j:33 - Checking that all correct data added successfully
+2015-09-11 23:57:59 INFO  LogLog4j:77 - entering from: Madrid, Spain 
+2015-09-11 23:57:59 INFO  LogLog4j:83 - entering password: Barcelona, Spain 
+2015-09-12 00:02:13 INFO  LogLog4j:45 - Opening login page
+2015-09-12 00:02:17 INFO  LogLog4j:33 - Checking that all correct data added successfully
+2015-09-12 00:02:17 INFO  Page:48 - entering text 'Madrid, Spain' into element [[FirefoxDriver: firefox on WINDOWS (d9f2672c-3288-41ea-990c-8d17c59d6121)] -> id: from_filter]
+2015-09-12 00:02:17 INFO  LogLog4j:77 - entering from: Madrid, Spain 
+2015-09-12 00:02:17 INFO  Page:48 - entering text 'Barcelona, Spain' into element [[FirefoxDriver: firefox on WINDOWS (d9f2672c-3288-41ea-990c-8d17c59d6121)] -> id: to_filter]
+2015-09-12 00:02:18 INFO  LogLog4j:83 - entering password: Barcelona, Spain 
+2015-09-12 00:02:18 INFO  Page:55 - clicking on element [[FirefoxDriver: firefox on WINDOWS (d9f2672c-3288-41ea-990c-8d17c59d6121)] -> id: search-form__submit-btn]
+2015-09-12 00:02:45 INFO  LogLog4j:45 - Opening login page
+2015-09-12 00:02:49 INFO  LogLog4j:33 - Checking that all correct data added successfully
+2015-09-12 00:02:49 INFO  Page:48 - entering text 'Madrid, Spain' into element [[FirefoxDriver: firefox on WINDOWS (4dafd747-ec98-45fe-af29-e29f36f55f81)] -> id: from_filter]
+2015-09-12 00:02:49 INFO  LogLog4j:77 - entering from: Madrid, Spain 
+2015-09-12 00:02:50 INFO  Page:48 - entering text 'Barcelona, Spain' into element [[FirefoxDriver: firefox on WINDOWS (4dafd747-ec98-45fe-af29-e29f36f55f81)] -> id: to_filter]
+2015-09-12 00:02:50 INFO  LogLog4j:83 - entering password: Barcelona, Spain 
+2015-09-12 00:02:50 INFO  Page:55 - clicking on element [[FirefoxDriver: firefox on WINDOWS (4dafd747-ec98-45fe-af29-e29f36f55f81)] -> id: search-form__submit-btn]
+2015-09-12 00:05:25 INFO  SearchPage:45 - Opening login page
+2015-09-12 00:05:29 INFO  SearchTest:32 - Checking that all correct data added successfully
+2015-09-12 00:05:29 INFO  Page:48 - entering text 'Madrid, Spain' into element [[FirefoxDriver: firefox on WINDOWS (06505756-3f09-40f3-803c-2947cc0174ac)] -> id: from_filter]
+2015-09-12 00:05:29 INFO  SearchPage:77 - entering from: Madrid, Spain 
+2015-09-12 00:05:30 INFO  Page:48 - entering text 'Barcelona, Spain' into element [[FirefoxDriver: firefox on WINDOWS (06505756-3f09-40f3-803c-2947cc0174ac)] -> id: to_filter]
+2015-09-12 00:05:30 INFO  SearchPage:83 - entering password: Barcelona, Spain 
+2015-09-12 00:05:30 INFO  Page:55 - clicking on element [[FirefoxDriver: firefox on WINDOWS (06505756-3f09-40f3-803c-2947cc0174ac)] -> css selector: #search-form__submit-btn]
+2015-09-12 00:09:48 INFO  SearchPage:45 - Opening login page
+2015-09-12 00:09:52 INFO  SearchTest:32 - Checking that all correct data added successfully
+2015-09-12 00:09:52 INFO  Page:55 - clicking on element [[FirefoxDriver: firefox on WINDOWS (ddf22655-6a22-4da8-a249-600e6d3b6c45)] -> css selector: #search-form__submit-btn]
+2015-09-12 00:10:21 INFO  SearchPage:45 - Opening login page
+2015-09-12 00:10:24 INFO  SearchTest:32 - Checking that all correct data added successfully
+2015-09-12 00:10:25 INFO  Page:48 - entering text 'Madrid, Spain' into element [[FirefoxDriver: firefox on WINDOWS (0bc27042-4992-48ec-8aac-e2b6cc79b52e)] -> id: from_filter]
+2015-09-12 00:10:25 INFO  SearchPage:77 - entering from: Madrid, Spain 
+2015-09-12 00:10:25 INFO  Page:48 - entering text 'Barcelona, Spain' into element [[FirefoxDriver: firefox on WINDOWS (0bc27042-4992-48ec-8aac-e2b6cc79b52e)] -> id: to_filter]
+2015-09-12 00:10:26 INFO  SearchPage:83 - entering password: Barcelona, Spain 
+2015-09-12 00:10:26 INFO  Page:55 - clicking on element [[FirefoxDriver: firefox on WINDOWS (0bc27042-4992-48ec-8aac-e2b6cc79b52e)] -> css selector: #search-form__submit-btn]
+2015-09-12 00:10:50 INFO  SearchPage:45 - Opening login page
+2015-09-12 00:10:54 INFO  SearchTest:32 - Checking that all correct data added successfully
+2015-09-12 00:10:55 INFO  Page:48 - entering text 'Madrid, Spain' into element [[FirefoxDriver: firefox on WINDOWS (25dc3c84-69a9-4558-9928-93c336253013)] -> id: from_filter]
+2015-09-12 00:10:55 INFO  SearchPage:77 - entering from: Madrid, Spain 
+2015-09-12 00:10:55 INFO  Page:48 - entering text 'Barcelona, Spain' into element [[FirefoxDriver: firefox on WINDOWS (25dc3c84-69a9-4558-9928-93c336253013)] -> id: to_filter]
+2015-09-12 00:10:56 INFO  SearchPage:83 - entering password: Barcelona, Spain 
+2015-09-12 00:10:56 INFO  Page:55 - clicking on element [[FirefoxDriver: firefox on WINDOWS (25dc3c84-69a9-4558-9928-93c336253013)] -> css selector: #search-form__submit-btn]
+2015-09-12 00:12:19 INFO  SearchPage:45 - Opening login page
+2015-09-12 00:12:23 INFO  SearchTest:32 - Checking that all correct data added successfully
+2015-09-12 00:12:23 INFO  Page:48 - entering text 'Madrid, Spain' into element [[FirefoxDriver: firefox on WINDOWS (70b16a0b-061b-4a0f-8b52-7c39d4772c07)] -> id: from_filter]
+2015-09-12 00:12:24 INFO  SearchPage:77 - entering from: Madrid, Spain 
+2015-09-12 00:12:24 INFO  Page:48 - entering text 'Barcelona, Spain' into element [[FirefoxDriver: firefox on WINDOWS (70b16a0b-061b-4a0f-8b52-7c39d4772c07)] -> id: to_filter]
+2015-09-12 00:12:24 INFO  SearchPage:83 - entering password: Barcelona, Spain 
+2015-09-12 00:12:25 INFO  Page:55 - clicking on element [[FirefoxDriver: firefox on WINDOWS (70b16a0b-061b-4a0f-8b52-7c39d4772c07)] -> css selector: #search-form__submit-btn]
+2015-09-12 00:13:47 INFO  SearchPage:45 - Opening login page
+2015-09-12 00:13:51 INFO  SearchTest:32 - Checking that all correct data added successfully
+2015-09-12 00:13:51 INFO  Page:48 - entering text 'Madrid, Spain' into element [[FirefoxDriver: firefox on WINDOWS (a35695dd-a363-4124-8675-3e9d45206cd1)] -> id: from_filter]
+2015-09-12 00:13:51 INFO  SearchPage:77 - entering from: Madrid, Spain 
+2015-09-12 00:13:51 INFO  Page:48 - entering text 'Barcelona, Spain' into element [[FirefoxDriver: firefox on WINDOWS (a35695dd-a363-4124-8675-3e9d45206cd1)] -> id: to_filter]
+2015-09-12 00:13:52 INFO  SearchPage:83 - entering password: Barcelona, Spain 
+2015-09-12 00:13:53 INFO  Page:55 - clicking on element [[FirefoxDriver: firefox on WINDOWS (a35695dd-a363-4124-8675-3e9d45206cd1)] -> id: search-form__submit-btn]
+2015-09-12 00:16:45 INFO  SearchPage:36 - Opening login page
+2015-09-12 00:16:49 INFO  SearchTest:32 - Checking that all correct data added successfully
+2015-09-12 00:16:49 INFO  Page:48 - entering text 'Madrid, Spain' into element [[FirefoxDriver: firefox on WINDOWS (ac99c447-ef11-4cc7-b01b-8b92f4953e12)] -> id: from_filter]
+2015-09-12 00:16:49 INFO  SearchPage:55 - entering from: Madrid, Spain 
+2015-09-12 00:16:49 INFO  Page:48 - entering text 'Barcelona, Spain' into element [[FirefoxDriver: firefox on WINDOWS (ac99c447-ef11-4cc7-b01b-8b92f4953e12)] -> id: to_filter]
+2015-09-12 00:16:50 INFO  SearchPage:61 - entering password: Barcelona, Spain 
+2015-09-12 00:16:50 INFO  Page:55 - clicking on element [[FirefoxDriver: firefox on WINDOWS (ac99c447-ef11-4cc7-b01b-8b92f4953e12)] -> id: search-form__submit-btn]
+2015-09-12 00:17:12 INFO  SearchPage:36 - Opening login page
+2015-09-12 00:17:16 INFO  SearchTest:32 - Checking that all correct data added successfully
+2015-09-12 00:17:16 INFO  Page:48 - entering text 'Madrid, Spain' into element [[FirefoxDriver: firefox on WINDOWS (7faa7582-83a8-4e65-ad9e-2603d409a95e)] -> id: from_filter]
+2015-09-12 00:17:17 INFO  SearchPage:55 - entering from: Madrid, Spain 
+2015-09-12 00:17:17 INFO  Page:48 - entering text 'Barcelona, Spain' into element [[FirefoxDriver: firefox on WINDOWS (7faa7582-83a8-4e65-ad9e-2603d409a95e)] -> id: to_filter]
+2015-09-12 00:17:17 INFO  SearchPage:61 - entering password: Barcelona, Spain 
+2015-09-12 00:17:17 INFO  Page:55 - clicking on element [[FirefoxDriver: firefox on WINDOWS (7faa7582-83a8-4e65-ad9e-2603d409a95e)] -> id: search-form__submit-btn]
+2015-09-12 00:19:30 INFO  SearchPage:36 - Opening login page
+2015-09-12 00:19:33 INFO  SearchTest:33 - Checking that all correct data added successfully
+2015-09-12 00:19:34 INFO  Page:48 - entering text 'Madrid, Spain' into element [[FirefoxDriver: firefox on WINDOWS (948a41f1-2e7c-4ec2-83ca-6c59c8f38cab)] -> id: from_filter]
+2015-09-12 00:19:34 INFO  SearchPage:55 - entering from: Madrid, Spain 
+2015-09-12 00:19:34 INFO  Page:48 - entering text 'Barcelona, Spain' into element [[FirefoxDriver: firefox on WINDOWS (948a41f1-2e7c-4ec2-83ca-6c59c8f38cab)] -> id: to_filter]
+2015-09-12 00:19:34 INFO  SearchPage:61 - entering password: Barcelona, Spain 
+2015-09-12 00:21:54 INFO  SearchPage:36 - Opening login page
+2015-09-12 00:21:59 INFO  SearchTest:33 - Checking that all correct data added successfully
+2015-09-12 00:21:59 INFO  Page:48 - entering text 'Madrid, Spain' into element [[FirefoxDriver: firefox on WINDOWS (3bf2da22-0b8d-47ad-bd88-6941ec2d729d)] -> id: from_filter]
+2015-09-12 00:21:59 INFO  SearchPage:55 - entering from: Madrid, Spain 
+2015-09-12 00:21:59 INFO  Page:48 - entering text 'Barcelona, Spain' into element [[FirefoxDriver: firefox on WINDOWS (3bf2da22-0b8d-47ad-bd88-6941ec2d729d)] -> id: to_filter]
+2015-09-12 00:22:00 INFO  SearchPage:61 - entering password: Barcelona, Spain 
+2015-09-12 00:22:24 INFO  SearchPage:36 - Opening login page
+2015-09-12 00:22:28 INFO  SearchTest:33 - Checking that all correct data added successfully
+2015-09-12 00:22:28 INFO  Page:48 - entering text 'Madrid, Spain' into element [[FirefoxDriver: firefox on WINDOWS (f4b50246-c592-47d6-8196-dd0a5b6264c1)] -> id: from_filter]
+2015-09-12 00:22:29 INFO  SearchPage:55 - entering from: Madrid, Spain 
+2015-09-12 00:22:29 INFO  Page:48 - entering text 'Barcelona, Spain' into element [[FirefoxDriver: firefox on WINDOWS (f4b50246-c592-47d6-8196-dd0a5b6264c1)] -> id: to_filter]
+2015-09-12 00:22:29 INFO  SearchPage:61 - entering password: Barcelona, Spain 
+2015-09-12 00:23:46 INFO  SearchPage:36 - Opening login page
+2015-09-12 00:23:50 INFO  SearchTest:33 - Checking that all correct data added successfully
+2015-09-12 00:23:50 INFO  Page:48 - entering text 'Madrid, Spain' into element [[FirefoxDriver: firefox on WINDOWS (ac5dd1bc-f429-4efc-b3ce-662273a38bb6)] -> id: from_filter]
+2015-09-12 00:23:50 INFO  SearchPage:55 - entering from: Madrid, Spain 
+2015-09-12 00:23:50 INFO  Page:48 - entering text 'Barcelona, Spain' into element [[FirefoxDriver: firefox on WINDOWS (ac5dd1bc-f429-4efc-b3ce-662273a38bb6)] -> id: to_filter]
+2015-09-12 00:23:51 INFO  SearchPage:61 - entering to: Barcelona, Spain 
+2015-09-12 00:24:24 INFO  SearchPage:36 - Opening login page
+2015-09-12 00:24:27 INFO  SearchTest:33 - Checking that all correct data added successfully
+2015-09-12 00:24:28 INFO  Page:48 - entering text 'Madrid, Spain' into element [[FirefoxDriver: firefox on WINDOWS (d1f1fc78-abed-4611-9f82-6c6797fac8b9)] -> id: from_filter]
+2015-09-12 00:24:28 INFO  SearchPage:55 - entering from: Madrid, Spain 
+2015-09-12 00:24:28 INFO  Page:48 - entering text 'Barcelona, Spain' into element [[FirefoxDriver: firefox on WINDOWS (d1f1fc78-abed-4611-9f82-6c6797fac8b9)] -> id: to_filter]
+2015-09-12 00:24:28 INFO  SearchPage:61 - entering to: Barcelona, Spain 
+2015-09-12 00:24:29 INFO  Page:55 - clicking on element [[FirefoxDriver: firefox on WINDOWS (d1f1fc78-abed-4611-9f82-6c6797fac8b9)] -> id: search-form__submit-btn]
+2015-09-12 00:33:46 INFO  SearchPage:35 - Opening login page
+2015-09-12 00:33:49 INFO  sortTest:34 - Checking that all correct data added successfully
+2015-09-12 00:36:10 INFO  SearchPage:36 - Opening login page
+2015-09-12 00:36:15 INFO  sortTest:34 - Checking that all correct data added successfully
+2015-09-12 00:36:15 INFO  Page:48 - entering text 'Madrid, Spain' into element [[FirefoxDriver: firefox on WINDOWS (20bbead8-f787-44fa-9a61-93369efe516a)] -> id: from_filter]
+2015-09-12 00:36:15 INFO  SearchPage:55 - entering from: Madrid, Spain 
+2015-09-12 00:36:15 INFO  Page:48 - entering text 'Barcelona, Spain' into element [[FirefoxDriver: firefox on WINDOWS (20bbead8-f787-44fa-9a61-93369efe516a)] -> id: to_filter]
+2015-09-12 00:36:16 INFO  SearchPage:61 - entering to: Barcelona, Spain 
+2015-09-12 00:36:16 INFO  Page:55 - clicking on element [[FirefoxDriver: firefox on WINDOWS (20bbead8-f787-44fa-9a61-93369efe516a)] -> id: search-form__submit-btn]
+2015-09-12 00:36:17 INFO  Page:55 - clicking on element [[FirefoxDriver: firefox on WINDOWS (20bbead8-f787-44fa-9a61-93369efe516a)] -> id: search-form__submit-btn]
+2015-09-12 00:37:41 INFO  SearchPage:36 - Opening login page
+2015-09-12 00:37:44 INFO  sortTest:34 - Checking that all correct data added successfully
+2015-09-12 00:37:45 INFO  Page:48 - entering text 'Madrid, Spain' into element [[FirefoxDriver: firefox on WINDOWS (c2116ca3-f0a0-43be-ad06-7dd02d1f7d0e)] -> id: from_filter]
+2015-09-12 00:37:45 INFO  SearchPage:55 - entering from: Madrid, Spain 
+2015-09-12 00:37:45 INFO  Page:48 - entering text 'Barcelona, Spain' into element [[FirefoxDriver: firefox on WINDOWS (c2116ca3-f0a0-43be-ad06-7dd02d1f7d0e)] -> id: to_filter]
+2015-09-12 00:37:46 INFO  SearchPage:61 - entering to: Barcelona, Spain 
+2015-09-12 00:37:46 INFO  Page:55 - clicking on element [[FirefoxDriver: firefox on WINDOWS (c2116ca3-f0a0-43be-ad06-7dd02d1f7d0e)] -> id: search-form__submit-btn]
+2015-09-12 00:38:32 INFO  SearchPage:36 - Opening login page
+2015-09-12 00:38:36 INFO  sortTest:34 - Checking that all correct data added successfully
+2015-09-12 00:38:36 INFO  Page:48 - entering text 'Madrid, Spain' into element [[FirefoxDriver: firefox on WINDOWS (c4fac14f-329c-48f5-90c6-7d468f668ec3)] -> id: from_filter]
+2015-09-12 00:38:36 INFO  SearchPage:55 - entering from: Madrid, Spain 
+2015-09-12 00:38:36 INFO  Page:48 - entering text 'Barcelona, Spain' into element [[FirefoxDriver: firefox on WINDOWS (c4fac14f-329c-48f5-90c6-7d468f668ec3)] -> id: to_filter]
+2015-09-12 00:38:37 INFO  SearchPage:61 - entering to: Barcelona, Spain 
+2015-09-12 00:38:37 INFO  Page:55 - clicking on element [[FirefoxDriver: firefox on WINDOWS (c4fac14f-329c-48f5-90c6-7d468f668ec3)] -> id: search-form__submit-btn]
+2015-09-12 00:38:38 INFO  SearchPage:67 - clicking on sort: [[FirefoxDriver: firefox on WINDOWS (c4fac14f-329c-48f5-90c6-7d468f668ec3)] -> id: search-form__submit-btn] 
+2015-09-12 00:39:22 INFO  SearchPage:36 - Opening login page
+2015-09-12 00:39:26 INFO  sortTest:35 - Checking that all correct data added successfully
+2015-09-12 00:39:26 INFO  Page:48 - entering text 'Madrid, Spain' into element [[FirefoxDriver: firefox on WINDOWS (615eb966-23a9-4dd1-b9c4-2fddcb85021b)] -> id: from_filter]
+2015-09-12 00:39:26 INFO  SearchPage:55 - entering from: Madrid, Spain 
+2015-09-12 00:39:26 INFO  Page:48 - entering text 'Barcelona, Spain' into element [[FirefoxDriver: firefox on WINDOWS (615eb966-23a9-4dd1-b9c4-2fddcb85021b)] -> id: to_filter]
+2015-09-12 00:39:27 INFO  SearchPage:61 - entering to: Barcelona, Spain 
+2015-09-12 00:39:27 INFO  Page:55 - clicking on element [[FirefoxDriver: firefox on WINDOWS (615eb966-23a9-4dd1-b9c4-2fddcb85021b)] -> id: search-form__submit-btn]
+2015-09-12 00:40:23 INFO  SearchPage:67 - clicking on sort: Proxy element for: org.openqa.selenium.support.pagefactory.DefaultElementLocator@305ffe9e 
+2015-09-12 00:44:17 INFO  SearchPage:36 - Opening login page
+2015-09-12 00:44:21 INFO  sortTest:35 - Checking that all correct data added successfully
+2015-09-12 00:44:21 INFO  Page:48 - entering text 'Madrid, Spain' into element [[FirefoxDriver: firefox on WINDOWS (32b8bd73-40d5-48b4-b31b-0e556dfaa19e)] -> id: from_filter]
+2015-09-12 00:44:21 INFO  SearchPage:55 - entering from: Madrid, Spain 
+2015-09-12 00:44:21 INFO  Page:48 - entering text 'Barcelona, Spain' into element [[FirefoxDriver: firefox on WINDOWS (32b8bd73-40d5-48b4-b31b-0e556dfaa19e)] -> id: to_filter]
+2015-09-12 00:44:22 INFO  SearchPage:61 - entering to: Barcelona, Spain 
+2015-09-12 00:44:23 INFO  Page:55 - clicking on element [[FirefoxDriver: firefox on WINDOWS (32b8bd73-40d5-48b4-b31b-0e556dfaa19e)] -> id: search-form__submit-btn]
+2015-09-12 00:45:10 INFO  SearchPage:36 - Opening login page
+2015-09-12 00:45:14 INFO  sortTest:35 - Checking that all correct data added successfully
+2015-09-12 00:45:14 INFO  Page:48 - entering text 'Madrid, Spain' into element [[FirefoxDriver: firefox on WINDOWS (4fdf57e3-c074-4ef5-8570-3393fb5a8240)] -> id: from_filter]
+2015-09-12 00:45:14 INFO  SearchPage:55 - entering from: Madrid, Spain 
+2015-09-12 00:45:15 INFO  Page:48 - entering text 'Barcelona, Spain' into element [[FirefoxDriver: firefox on WINDOWS (4fdf57e3-c074-4ef5-8570-3393fb5a8240)] -> id: to_filter]
+2015-09-12 00:45:15 INFO  SearchPage:61 - entering to: Barcelona, Spain 
+2015-09-12 00:45:15 INFO  Page:55 - clicking on element [[FirefoxDriver: firefox on WINDOWS (4fdf57e3-c074-4ef5-8570-3393fb5a8240)] -> id: search-form__submit-btn]
+2015-09-12 00:46:11 INFO  SearchPage:67 - clicking on sort: Proxy element for: org.openqa.selenium.support.pagefactory.DefaultElementLocator@7555b920 
+2015-09-12 00:46:11 INFO  Page:55 - clicking on element null
+2015-09-12 00:46:30 INFO  SearchPage:36 - Opening login page
+2015-09-12 00:46:34 INFO  sortTest:35 - Checking that all correct data added successfully
+2015-09-12 00:46:34 INFO  Page:48 - entering text 'Madrid, Spain' into element [[FirefoxDriver: firefox on WINDOWS (137608f4-b755-4aa2-afaa-2b176d1139f3)] -> id: from_filter]
+2015-09-12 00:46:34 INFO  SearchPage:55 - entering from: Madrid, Spain 
+2015-09-12 00:46:35 INFO  Page:48 - entering text 'Barcelona, Spain' into element [[FirefoxDriver: firefox on WINDOWS (137608f4-b755-4aa2-afaa-2b176d1139f3)] -> id: to_filter]
+2015-09-12 00:46:35 INFO  SearchPage:61 - entering to: Barcelona, Spain 
+2015-09-12 00:46:36 INFO  Page:55 - clicking on element [[FirefoxDriver: firefox on WINDOWS (137608f4-b755-4aa2-afaa-2b176d1139f3)] -> id: search-form__submit-btn]
+2015-09-12 00:47:31 INFO  SearchPage:67 - clicking on sort: Proxy element for: org.openqa.selenium.support.pagefactory.DefaultElementLocator@302c971f 
+2015-09-12 00:47:31 INFO  Page:55 - clicking on element [[FirefoxDriver: firefox on WINDOWS (137608f4-b755-4aa2-afaa-2b176d1139f3)] -> id: sortby-price]
+2015-09-12 00:48:24 INFO  SearchPage:36 - Opening login page
+2015-09-12 00:48:28 INFO  sortTest:35 - Checking that all correct data added successfully
+2015-09-12 00:48:28 INFO  Page:48 - entering text 'Madrid, Spain' into element [[FirefoxDriver: firefox on WINDOWS (54e1f1c1-534c-48f9-9bf0-39592e1d7a26)] -> id: from_filter]
+2015-09-12 00:48:28 INFO  SearchPage:55 - entering from: Madrid, Spain 
+2015-09-12 00:48:28 INFO  Page:48 - entering text 'Barcelona, Spain' into element [[FirefoxDriver: firefox on WINDOWS (54e1f1c1-534c-48f9-9bf0-39592e1d7a26)] -> id: to_filter]
+2015-09-12 00:48:29 INFO  SearchPage:61 - entering to: Barcelona, Spain 
+2015-09-12 00:48:29 INFO  Page:55 - clicking on element [[FirefoxDriver: firefox on WINDOWS (54e1f1c1-534c-48f9-9bf0-39592e1d7a26)] -> id: search-form__submit-btn]
+2015-09-12 00:49:24 INFO  SearchPage:67 - clicking on sort: Proxy element for: org.openqa.selenium.support.pagefactory.DefaultElementLocator@302c971f 
+2015-09-12 00:49:24 INFO  Page:55 - clicking on element [[FirefoxDriver: firefox on WINDOWS (54e1f1c1-534c-48f9-9bf0-39592e1d7a26)] -> id: sortby-price]
+2015-09-12 01:00:13 INFO  SearchPage:36 - Opening login page
+2015-09-12 01:00:17 INFO  sortTest:35 - Checking that all correct data added successfully
+2015-09-12 01:00:17 INFO  Page:48 - entering text 'Madrid, Spain' into element [[FirefoxDriver: firefox on WINDOWS (ae842dfa-df2c-4fcf-92e3-879169a61112)] -> id: from_filter]
+2015-09-12 01:00:18 INFO  SearchPage:55 - entering from: Madrid, Spain 
+2015-09-12 01:00:18 INFO  Page:48 - entering text 'Barcelona, Spain' into element [[FirefoxDriver: firefox on WINDOWS (ae842dfa-df2c-4fcf-92e3-879169a61112)] -> id: to_filter]
+2015-09-12 01:00:19 INFO  SearchPage:61 - entering to: Barcelona, Spain 
+2015-09-12 01:00:19 INFO  Page:55 - clicking on element [[FirefoxDriver: firefox on WINDOWS (ae842dfa-df2c-4fcf-92e3-879169a61112)] -> id: search-form__submit-btn]
+2015-09-12 01:00:20 INFO  SearchPage:67 - clicking on sort: [[FirefoxDriver: firefox on WINDOWS (ae842dfa-df2c-4fcf-92e3-879169a61112)] -> id: search-form__submit-btn] 
+2015-09-12 01:00:25 INFO  Page:55 - clicking on element [[FirefoxDriver: firefox on WINDOWS (ae842dfa-df2c-4fcf-92e3-879169a61112)] -> id: sortby-price]
+2015-09-12 01:08:18 INFO  SearchPage:36 - Opening login page
+2015-09-12 01:08:21 INFO  sortTest:35 - Checking that all correct data added successfully
+2015-09-12 01:08:22 INFO  Page:48 - entering text 'Madrid, Spain' into element [[FirefoxDriver: firefox on WINDOWS (1ae7d2a5-7919-41c0-aa4d-7d34b72bc14e)] -> id: from_filter]
+2015-09-12 01:08:22 INFO  SearchPage:55 - entering from: Madrid, Spain 
+2015-09-12 01:08:22 INFO  Page:48 - entering text 'Barcelona, Spain' into element [[FirefoxDriver: firefox on WINDOWS (1ae7d2a5-7919-41c0-aa4d-7d34b72bc14e)] -> id: to_filter]
+2015-09-12 01:08:23 INFO  SearchPage:61 - entering to: Barcelona, Spain 
+2015-09-12 01:08:23 INFO  Page:55 - clicking on element [[FirefoxDriver: firefox on WINDOWS (1ae7d2a5-7919-41c0-aa4d-7d34b72bc14e)] -> id: search-form__submit-btn]
+2015-09-12 01:09:18 INFO  SearchPage:67 - clicking on sort: Proxy element for: org.openqa.selenium.support.pagefactory.DefaultElementLocator@1040be71 
+2015-09-12 01:09:18 INFO  Page:55 - clicking on element [[FirefoxDriver: firefox on WINDOWS (1ae7d2a5-7919-41c0-aa4d-7d34b72bc14e)] -> id: sortby-price]
+2015-09-12 01:10:41 INFO  SearchPage:36 - Opening login page
+2015-09-12 01:10:45 INFO  sortTest:35 - Checking that all correct data added successfully
+2015-09-12 01:10:45 INFO  Page:48 - entering text 'Madrid, Spain' into element [[FirefoxDriver: firefox on WINDOWS (40d1d0e6-c3df-4c8a-b775-a733ace99868)] -> id: from_filter]
+2015-09-12 01:10:46 INFO  SearchPage:55 - entering from: Madrid, Spain 
+2015-09-12 01:10:46 INFO  Page:48 - entering text 'Barcelona, Spain' into element [[FirefoxDriver: firefox on WINDOWS (40d1d0e6-c3df-4c8a-b775-a733ace99868)] -> id: to_filter]
+2015-09-12 01:10:46 INFO  SearchPage:61 - entering to: Barcelona, Spain 
+2015-09-12 01:10:47 INFO  Page:55 - clicking on element [[FirefoxDriver: firefox on WINDOWS (40d1d0e6-c3df-4c8a-b775-a733ace99868)] -> id: search-form__submit-btn]
+2015-09-12 01:11:42 INFO  SearchPage:67 - clicking on sort: Proxy element for: org.openqa.selenium.support.pagefactory.DefaultElementLocator@7555b920 
+2015-09-12 01:11:42 INFO  Page:55 - clicking on element [[FirefoxDriver: firefox on WINDOWS (40d1d0e6-c3df-4c8a-b775-a733ace99868)] -> id: sortby-price]
+2015-09-12 01:13:02 INFO  SearchPage:36 - Opening login page
+2015-09-12 01:13:06 INFO  sortTest:35 - Checking that all correct data added successfully
+2015-09-12 01:13:07 INFO  Page:48 - entering text 'Madrid, Spain' into element [[FirefoxDriver: firefox on WINDOWS (406a5128-9507-4ee8-9a8a-cacf3e9fda4e)] -> id: from_filter]
+2015-09-12 01:13:07 INFO  SearchPage:55 - entering from: Madrid, Spain 
+2015-09-12 01:13:07 INFO  Page:48 - entering text 'Barcelona, Spain' into element [[FirefoxDriver: firefox on WINDOWS (406a5128-9507-4ee8-9a8a-cacf3e9fda4e)] -> id: to_filter]
+2015-09-12 01:13:08 INFO  SearchPage:61 - entering to: Barcelona, Spain 
+2015-09-12 01:13:08 INFO  Page:55 - clicking on element [[FirefoxDriver: firefox on WINDOWS (406a5128-9507-4ee8-9a8a-cacf3e9fda4e)] -> id: search-form__submit-btn]
+2015-09-12 01:14:03 INFO  SearchPage:67 - clicking on sort: Proxy element for: org.openqa.selenium.support.pagefactory.DefaultElementLocator@48c40605 
+2015-09-12 01:14:03 INFO  Page:55 - clicking on element [[FirefoxDriver: firefox on WINDOWS (406a5128-9507-4ee8-9a8a-cacf3e9fda4e)] -> id: sortby-price]
+2015-09-12 01:28:19 INFO  SearchPage:36 - Opening login page
+2015-09-12 01:28:23 INFO  sortTest:35 - Checking that all correct data added successfully
+2015-09-12 01:28:23 INFO  Page:48 - entering text 'Madrid, Spain' into element [[FirefoxDriver: firefox on WINDOWS (f282ba9e-bf0c-4c75-adb8-b57d338bfec2)] -> id: from_filter]
+2015-09-12 01:28:23 INFO  SearchPage:55 - entering from: Madrid, Spain 
+2015-09-12 01:28:23 INFO  Page:48 - entering text 'Barcelona, Spain' into element [[FirefoxDriver: firefox on WINDOWS (f282ba9e-bf0c-4c75-adb8-b57d338bfec2)] -> id: to_filter]
+2015-09-12 01:28:24 INFO  SearchPage:61 - entering to: Barcelona, Spain 
+2015-09-12 01:28:25 INFO  Page:55 - clicking on element [[FirefoxDriver: firefox on WINDOWS (f282ba9e-bf0c-4c75-adb8-b57d338bfec2)] -> id: search-form__submit-btn]
+2015-09-12 01:29:20 INFO  SearchPage:67 - clicking on sort: Proxy element for: org.openqa.selenium.support.pagefactory.DefaultElementLocator@7a11c4c7 
+2015-09-12 01:29:20 INFO  Page:55 - clicking on element [[FirefoxDriver: firefox on WINDOWS (f282ba9e-bf0c-4c75-adb8-b57d338bfec2)] -> id: sortby-price]
+2015-09-12 01:33:23 INFO  SearchPage:36 - Opening login page
+2015-09-12 01:33:27 INFO  sortTest:35 - Checking that all correct data added successfully
+2015-09-12 01:33:28 INFO  Page:48 - entering text 'Madrid, Spain' into element [[FirefoxDriver: firefox on WINDOWS (8f67dd11-95a7-4dc7-a8a6-14091008e928)] -> id: from_filter]
+2015-09-12 01:33:28 INFO  SearchPage:55 - entering from: Madrid, Spain 
+2015-09-12 01:33:28 INFO  Page:48 - entering text 'Barcelona, Spain' into element [[FirefoxDriver: firefox on WINDOWS (8f67dd11-95a7-4dc7-a8a6-14091008e928)] -> id: to_filter]
+2015-09-12 01:33:29 INFO  SearchPage:61 - entering to: Barcelona, Spain 
+2015-09-12 01:33:29 INFO  Page:55 - clicking on element [[FirefoxDriver: firefox on WINDOWS (8f67dd11-95a7-4dc7-a8a6-14091008e928)] -> id: search-form__submit-btn]
+2015-09-12 01:33:29 INFO  SearchPage:67 - clicking on sort: [[FirefoxDriver: firefox on WINDOWS (8f67dd11-95a7-4dc7-a8a6-14091008e928)] -> id: search-form__submit-btn] 
+2015-09-12 01:35:04 INFO  SearchPage:36 - Opening login page
+2015-09-12 01:35:07 INFO  sortTest:35 - Checking that all correct data added successfully
+2015-09-12 01:35:08 INFO  Page:48 - entering text 'Madrid, Spain' into element [[FirefoxDriver: firefox on WINDOWS (6caf6ef7-ec20-47d6-be3d-1e804a518d88)] -> id: from_filter]
+2015-09-12 01:35:08 INFO  SearchPage:55 - entering from: Madrid, Spain 
+2015-09-12 01:35:08 INFO  Page:48 - entering text 'Barcelona, Spain' into element [[FirefoxDriver: firefox on WINDOWS (6caf6ef7-ec20-47d6-be3d-1e804a518d88)] -> id: to_filter]
+2015-09-12 01:35:09 INFO  SearchPage:61 - entering to: Barcelona, Spain 
+2015-09-12 01:35:09 INFO  Page:55 - clicking on element [[FirefoxDriver: firefox on WINDOWS (6caf6ef7-ec20-47d6-be3d-1e804a518d88)] -> id: search-form__submit-btn]
+2015-09-12 01:36:05 INFO  SearchPage:67 - clicking on sort: Proxy element for: org.openqa.selenium.support.pagefactory.DefaultElementLocator@302c971f 
+2015-09-12 01:36:05 INFO  Page:55 - clicking on element [[FirefoxDriver: firefox on WINDOWS (6caf6ef7-ec20-47d6-be3d-1e804a518d88)] -> id: sortby-price]
+2015-09-12 01:38:19 INFO  SearchPage:36 - Opening login page
+2015-09-12 01:38:23 INFO  sortTest:35 - Checking that all correct data added successfully
+2015-09-12 01:38:23 INFO  Page:48 - entering text 'Madrid, Spain' into element [[FirefoxDriver: firefox on WINDOWS (ea0fa5b9-fa0e-47a6-beb9-2fa82eee7060)] -> id: from_filter]
+2015-09-12 01:38:24 INFO  SearchPage:55 - entering from: Madrid, Spain 
+2015-09-12 01:38:24 INFO  Page:48 - entering text 'Barcelona, Spain' into element [[FirefoxDriver: firefox on WINDOWS (ea0fa5b9-fa0e-47a6-beb9-2fa82eee7060)] -> id: to_filter]
+2015-09-12 01:38:24 INFO  SearchPage:61 - entering to: Barcelona, Spain 
+2015-09-12 01:38:25 INFO  Page:55 - clicking on element [[FirefoxDriver: firefox on WINDOWS (ea0fa5b9-fa0e-47a6-beb9-2fa82eee7060)] -> id: search-form__submit-btn]
+2015-09-12 01:39:21 INFO  SearchPage:67 - clicking on sort: Proxy element for: org.openqa.selenium.support.pagefactory.DefaultElementLocator@302c971f 
+2015-09-12 01:39:21 INFO  Page:55 - clicking on element [[FirefoxDriver: firefox on WINDOWS (ea0fa5b9-fa0e-47a6-beb9-2fa82eee7060)] -> id: sortby-price]
+2015-09-12 01:41:54 INFO  SearchPage:36 - Opening login page
+2015-09-12 01:41:58 INFO  sortTest:35 - Checking that all correct data added successfully
+2015-09-12 01:41:58 INFO  Page:48 - entering text 'Madrid, Spain' into element [[FirefoxDriver: firefox on WINDOWS (cf331a6a-3163-454a-a6b2-478e8cb24a5a)] -> id: from_filter]
+2015-09-12 01:41:58 INFO  SearchPage:55 - entering from: Madrid, Spain 
+2015-09-12 01:41:58 INFO  Page:48 - entering text 'Barcelona, Spain' into element [[FirefoxDriver: firefox on WINDOWS (cf331a6a-3163-454a-a6b2-478e8cb24a5a)] -> id: to_filter]
+2015-09-12 01:41:59 INFO  SearchPage:61 - entering to: Barcelona, Spain 
+2015-09-12 01:42:00 INFO  Page:55 - clicking on element [[FirefoxDriver: firefox on WINDOWS (cf331a6a-3163-454a-a6b2-478e8cb24a5a)] -> id: search-form__submit-btn]
+2015-09-12 01:42:55 INFO  SearchPage:67 - clicking on sort: Proxy element for: org.openqa.selenium.support.pagefactory.DefaultElementLocator@302c971f 
+2015-09-12 01:42:55 INFO  Page:55 - clicking on element [[FirefoxDriver: firefox on WINDOWS (cf331a6a-3163-454a-a6b2-478e8cb24a5a)] -> id: sortby-price]
+2015-09-12 01:44:16 INFO  SearchPage:36 - Opening login page
+2015-09-12 01:44:20 INFO  sortTest:35 - Checking that all correct data added successfully
+2015-09-12 01:44:20 INFO  Page:48 - entering text 'Madrid, Spain' into element [[FirefoxDriver: firefox on WINDOWS (840d68d3-9c42-49b6-92fb-72f8349c0e8c)] -> id: from_filter]
+2015-09-12 01:44:20 INFO  SearchPage:55 - entering from: Madrid, Spain 
+2015-09-12 01:44:21 INFO  Page:48 - entering text 'Barcelona, Spain' into element [[FirefoxDriver: firefox on WINDOWS (840d68d3-9c42-49b6-92fb-72f8349c0e8c)] -> id: to_filter]
+2015-09-12 01:44:21 INFO  SearchPage:61 - entering to: Barcelona, Spain 
+2015-09-12 01:44:22 INFO  Page:55 - clicking on element [[FirefoxDriver: firefox on WINDOWS (840d68d3-9c42-49b6-92fb-72f8349c0e8c)] -> id: search-form__submit-btn]
+2015-09-12 01:44:23 INFO  SearchPage:67 - clicking on sort: [[FirefoxDriver: firefox on WINDOWS (840d68d3-9c42-49b6-92fb-72f8349c0e8c)] -> id: search-form__submit-btn] 
+2015-09-12 01:44:27 INFO  Page:55 - clicking on element [[FirefoxDriver: firefox on WINDOWS (840d68d3-9c42-49b6-92fb-72f8349c0e8c)] -> id: sortby-price]
+2015-09-12 01:44:49 INFO  SearchPage:36 - Opening login page
+2015-09-12 01:44:53 INFO  sortTest:35 - Checking that all correct data added successfully
+2015-09-12 01:44:53 INFO  Page:48 - entering text 'Madrid, Spain' into element [[FirefoxDriver: firefox on WINDOWS (cac7b930-2a71-4310-a5f3-30e57783ef9d)] -> id: from_filter]
+2015-09-12 01:44:53 INFO  SearchPage:55 - entering from: Madrid, Spain 
+2015-09-12 01:44:53 INFO  Page:48 - entering text 'Barcelona, Spain' into element [[FirefoxDriver: firefox on WINDOWS (cac7b930-2a71-4310-a5f3-30e57783ef9d)] -> id: to_filter]
+2015-09-12 01:44:54 INFO  SearchPage:61 - entering to: Barcelona, Spain 
+2015-09-12 01:44:54 INFO  Page:55 - clicking on element [[FirefoxDriver: firefox on WINDOWS (cac7b930-2a71-4310-a5f3-30e57783ef9d)] -> id: search-form__submit-btn]
+2015-09-12 01:44:55 INFO  SearchPage:67 - clicking on sort: [[FirefoxDriver: firefox on WINDOWS (cac7b930-2a71-4310-a5f3-30e57783ef9d)] -> id: search-form__submit-btn] 
+2015-09-12 01:45:00 INFO  Page:55 - clicking on element [[FirefoxDriver: firefox on WINDOWS (cac7b930-2a71-4310-a5f3-30e57783ef9d)] -> id: sortby-price]
+2015-09-12 02:00:41 INFO  SearchPage:36 - Opening login page
+2015-09-12 02:00:45 INFO  sortTest:35 - Checking that all correct data added successfully
+2015-09-12 02:00:45 INFO  Page:48 - entering text 'Madrid, Spain' into element [[FirefoxDriver: firefox on WINDOWS (6f84b6de-6645-419e-9903-c631125f61a7)] -> id: from_filter]
+2015-09-12 02:00:45 INFO  SearchPage:55 - entering from: Madrid, Spain 
+2015-09-12 02:00:46 INFO  Page:48 - entering text 'Barcelona, Spain' into element [[FirefoxDriver: firefox on WINDOWS (6f84b6de-6645-419e-9903-c631125f61a7)] -> id: to_filter]
+2015-09-12 02:00:46 INFO  SearchPage:61 - entering to: Barcelona, Spain 
+2015-09-12 02:00:47 INFO  Page:55 - clicking on element [[FirefoxDriver: firefox on WINDOWS (6f84b6de-6645-419e-9903-c631125f61a7)] -> id: search-form__submit-btn]
+2015-09-12 02:01:43 INFO  SearchPage:67 - clicking on sort: Proxy element for: org.openqa.selenium.support.pagefactory.DefaultElementLocator@302c971f 
+2015-09-12 02:01:43 INFO  Page:55 - clicking on element [[FirefoxDriver: firefox on WINDOWS (6f84b6de-6645-419e-9903-c631125f61a7)] -> id: sortby-price]
+2015-09-12 02:15:38 INFO  SearchPage:36 - Opening login page
+2015-09-12 02:15:42 INFO  sortTest:39 - Checking that all correct data added successfully
+2015-09-12 02:15:42 INFO  Page:48 - entering text 'Madrid, Spain' into element [[FirefoxDriver: firefox on WINDOWS (a55ee780-8170-403b-9976-4c5d7948771f)] -> id: from_filter]
+2015-09-12 02:15:42 INFO  SearchPage:55 - entering from: Madrid, Spain 
+2015-09-12 02:15:43 INFO  Page:48 - entering text 'Barcelona, Spain' into element [[FirefoxDriver: firefox on WINDOWS (a55ee780-8170-403b-9976-4c5d7948771f)] -> id: to_filter]
+2015-09-12 02:15:43 INFO  SearchPage:61 - entering to: Barcelona, Spain 
+2015-09-12 02:15:44 INFO  Page:55 - clicking on element [[FirefoxDriver: firefox on WINDOWS (a55ee780-8170-403b-9976-4c5d7948771f)] -> id: search-form__submit-btn]
+2015-09-12 02:16:41 INFO  SearchPage:67 - clicking on sort: Proxy element for: org.openqa.selenium.support.pagefactory.DefaultElementLocator@54107f42 
+2015-09-12 02:16:41 INFO  Page:55 - clicking on element [[FirefoxDriver: firefox on WINDOWS (a55ee780-8170-403b-9976-4c5d7948771f)] -> id: sortby-price]
+2015-09-12 02:21:30 INFO  SearchPage:36 - Opening login page
+2015-09-12 02:21:34 INFO  sortTest:39 - Checking that all correct data added successfully
+2015-09-12 02:21:35 INFO  Page:48 - entering text 'Madrid, Spain' into element [[FirefoxDriver: firefox on WINDOWS (e94cbc3f-b41f-4493-969a-ba93bbbe3802)] -> id: from_filter]
+2015-09-12 02:21:35 INFO  SearchPage:55 - entering from: Madrid, Spain 
+2015-09-12 02:21:35 INFO  Page:48 - entering text 'Barcelona, Spain' into element [[FirefoxDriver: firefox on WINDOWS (e94cbc3f-b41f-4493-969a-ba93bbbe3802)] -> id: to_filter]
+2015-09-12 02:21:35 INFO  SearchPage:61 - entering to: Barcelona, Spain 
+2015-09-12 02:21:36 INFO  Page:55 - clicking on element [[FirefoxDriver: firefox on WINDOWS (e94cbc3f-b41f-4493-969a-ba93bbbe3802)] -> id: search-form__submit-btn]
+2015-09-12 02:22:31 INFO  SearchPage:67 - clicking on sort: Proxy element for: org.openqa.selenium.support.pagefactory.DefaultElementLocator@302c971f 
+2015-09-12 02:22:32 INFO  Page:55 - clicking on element [[FirefoxDriver: firefox on WINDOWS (e94cbc3f-b41f-4493-969a-ba93bbbe3802)] -> id: sortby-price]
+2015-09-12 02:24:07 INFO  SearchPage:36 - Opening login page
+2015-09-12 02:24:11 INFO  sortTest:39 - Checking that all correct data added successfully
+2015-09-12 02:24:12 INFO  Page:48 - entering text 'Madrid, Spain' into element [[FirefoxDriver: firefox on WINDOWS (9efcc16e-ab97-4df6-b577-960e0c0fa807)] -> id: from_filter]
+2015-09-12 02:24:12 INFO  SearchPage:55 - entering from: Madrid, Spain 
+2015-09-12 02:24:12 INFO  Page:48 - entering text 'Barcelona, Spain' into element [[FirefoxDriver: firefox on WINDOWS (9efcc16e-ab97-4df6-b577-960e0c0fa807)] -> id: to_filter]
+2015-09-12 02:24:12 INFO  SearchPage:61 - entering to: Barcelona, Spain 
+2015-09-12 02:24:13 INFO  Page:55 - clicking on element [[FirefoxDriver: firefox on WINDOWS (9efcc16e-ab97-4df6-b577-960e0c0fa807)] -> id: search-form__submit-btn]
+2015-09-12 02:25:09 INFO  SearchPage:67 - clicking on sort: Proxy element for: org.openqa.selenium.support.pagefactory.DefaultElementLocator@48c40605 
+2015-09-12 02:25:09 INFO  Page:55 - clicking on element [[FirefoxDriver: firefox on WINDOWS (9efcc16e-ab97-4df6-b577-960e0c0fa807)] -> id: sortby-price]
+2015-09-12 02:28:34 INFO  SearchPage:36 - Opening login page
+2015-09-12 02:28:39 INFO  sortTest:39 - Checking that all correct data added successfully
+2015-09-12 02:28:40 INFO  Page:48 - entering text 'Madrid, Spain' into element [[FirefoxDriver: firefox on WINDOWS (3f152653-c2d7-4a91-a134-83f2dd682222)] -> id: from_filter]
+2015-09-12 02:28:40 INFO  SearchPage:55 - entering from: Madrid, Spain 
+2015-09-12 02:28:40 INFO  Page:48 - entering text 'Barcelona, Spain' into element [[FirefoxDriver: firefox on WINDOWS (3f152653-c2d7-4a91-a134-83f2dd682222)] -> id: to_filter]
+2015-09-12 02:28:41 INFO  SearchPage:61 - entering to: Barcelona, Spain 
+2015-09-12 02:28:41 INFO  Page:55 - clicking on element [[FirefoxDriver: firefox on WINDOWS (3f152653-c2d7-4a91-a134-83f2dd682222)] -> id: search-form__submit-btn]
+2015-09-12 02:28:41 INFO  SearchPage:67 - clicking on sort: [[FirefoxDriver: firefox on WINDOWS (3f152653-c2d7-4a91-a134-83f2dd682222)] -> id: search-form__submit-btn] 
+2015-09-12 02:29:18 INFO  SearchPage:36 - Opening login page
+2015-09-12 02:29:22 INFO  sortTest:39 - Checking that all correct data added successfully
+2015-09-12 02:29:22 INFO  Page:48 - entering text 'Madrid, Spain' into element [[FirefoxDriver: firefox on WINDOWS (04c9960f-09f3-438f-b120-b66850225dba)] -> id: from_filter]
+2015-09-12 02:29:22 INFO  SearchPage:55 - entering from: Madrid, Spain 
+2015-09-12 02:29:22 INFO  Page:48 - entering text 'Barcelona, Spain' into element [[FirefoxDriver: firefox on WINDOWS (04c9960f-09f3-438f-b120-b66850225dba)] -> id: to_filter]
+2015-09-12 02:29:23 INFO  SearchPage:61 - entering to: Barcelona, Spain 
+2015-09-12 02:29:24 INFO  Page:55 - clicking on element [[FirefoxDriver: firefox on WINDOWS (04c9960f-09f3-438f-b120-b66850225dba)] -> id: search-form__submit-btn]
+2015-09-12 02:30:19 INFO  SearchPage:67 - clicking on sort: Proxy element for: org.openqa.selenium.support.pagefactory.DefaultElementLocator@302c971f 
+2015-09-12 02:30:19 INFO  Page:55 - clicking on element [[FirefoxDriver: firefox on WINDOWS (04c9960f-09f3-438f-b120-b66850225dba)] -> id: sortby-price]
+2015-09-12 02:31:52 INFO  SearchPage:36 - Opening login page
+2015-09-12 02:31:56 INFO  sortTest:39 - Checking that all correct data added successfully
+2015-09-12 02:31:56 INFO  Page:48 - entering text 'Madrid, Spain' into element [[FirefoxDriver: firefox on WINDOWS (a97cf25c-2db2-46e3-8a23-fa8c89b64c1e)] -> id: from_filter]
+2015-09-12 02:31:56 INFO  SearchPage:55 - entering from: Madrid, Spain 
+2015-09-12 02:31:57 INFO  Page:48 - entering text 'Barcelona, Spain' into element [[FirefoxDriver: firefox on WINDOWS (a97cf25c-2db2-46e3-8a23-fa8c89b64c1e)] -> id: to_filter]
+2015-09-12 02:31:57 INFO  SearchPage:61 - entering to: Barcelona, Spain 
+2015-09-12 02:31:58 INFO  Page:55 - clicking on element [[FirefoxDriver: firefox on WINDOWS (a97cf25c-2db2-46e3-8a23-fa8c89b64c1e)] -> id: search-form__submit-btn]
+2015-09-12 02:32:53 INFO  SearchPage:67 - clicking on sort: Proxy element for: org.openqa.selenium.support.pagefactory.DefaultElementLocator@302c971f 
+2015-09-12 02:32:53 INFO  Page:55 - clicking on element [[FirefoxDriver: firefox on WINDOWS (a97cf25c-2db2-46e3-8a23-fa8c89b64c1e)] -> id: sortby-price]
+2015-09-12 02:42:28 INFO  SearchPage:36 - Opening login page
+2015-09-12 02:42:32 INFO  sortTest:39 - Checking that all correct data added successfully
+2015-09-12 02:42:32 INFO  Page:48 - entering text 'Madrid, Spain' into element [[FirefoxDriver: firefox on WINDOWS (d0d2e038-6c1c-49f7-9ff6-19705d27fd65)] -> id: from_filter]
+2015-09-12 02:42:32 INFO  SearchPage:55 - entering from: Madrid, Spain 
+2015-09-12 02:42:32 INFO  Page:48 - entering text 'Barcelona, Spain' into element [[FirefoxDriver: firefox on WINDOWS (d0d2e038-6c1c-49f7-9ff6-19705d27fd65)] -> id: to_filter]
+2015-09-12 02:42:33 INFO  SearchPage:61 - entering to: Barcelona, Spain 
+2015-09-12 02:42:33 INFO  Page:55 - clicking on element [[FirefoxDriver: firefox on WINDOWS (d0d2e038-6c1c-49f7-9ff6-19705d27fd65)] -> id: search-form__submit-btn]
+2015-09-12 02:43:30 INFO  SearchPage:67 - clicking on sort: Proxy element for: org.openqa.selenium.support.pagefactory.DefaultElementLocator@302c971f 
+2015-09-12 02:43:30 INFO  Page:55 - clicking on element [[FirefoxDriver: firefox on WINDOWS (d0d2e038-6c1c-49f7-9ff6-19705d27fd65)] -> id: sortby-price]
+2015-09-12 03:04:11 INFO  SearchPage:36 - Opening login page
+2015-09-12 03:04:16 INFO  sortTest:39 - Checking that all correct data added successfully
+2015-09-12 03:04:16 INFO  Page:48 - entering text 'Madrid, Spain' into element [[FirefoxDriver: firefox on WINDOWS (624ffd5f-3ae9-4b7d-b4ad-3fb90a581ee6)] -> id: from_filter]
+2015-09-12 03:04:17 INFO  SearchPage:55 - entering from: Madrid, Spain 
+2015-09-12 03:04:17 INFO  Page:48 - entering text 'Barcelona, Spain' into element [[FirefoxDriver: firefox on WINDOWS (624ffd5f-3ae9-4b7d-b4ad-3fb90a581ee6)] -> id: to_filter]
+2015-09-12 03:04:17 INFO  SearchPage:61 - entering to: Barcelona, Spain 
+2015-09-12 03:04:18 INFO  Page:55 - clicking on element [[FirefoxDriver: firefox on WINDOWS (624ffd5f-3ae9-4b7d-b4ad-3fb90a581ee6)] -> id: search-form__submit-btn]
+2015-09-12 03:04:18 INFO  SearchPage:67 - clicking on sort: [[FirefoxDriver: firefox on WINDOWS (624ffd5f-3ae9-4b7d-b4ad-3fb90a581ee6)] -> id: search-form__submit-btn] 
