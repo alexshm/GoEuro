@@ -54,7 +54,7 @@ public class ResultPage extends Page {
                 arrayList.add(price);
                 continue;
             }    catch (org.openqa.selenium.NoSuchElementException e) {
-
+                    Log.error(e);
             }
         }
         return arrayList;

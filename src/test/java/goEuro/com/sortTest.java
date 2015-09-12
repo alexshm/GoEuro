@@ -61,7 +61,7 @@ public class sortTest extends BaseTest {
         ArrayList<Float> array = resultPage.getResultsArray();
         ArrayList<Float> copy = new ArrayList<Float>(array);
         copy.sort(Comparator.<Float>naturalOrder());
-        assertTrue(CollectionUtils.isEqualCollection(array, copy));
+        assertTrue(copy.equals(array));
 
     }
 
